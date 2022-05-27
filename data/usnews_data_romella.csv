@@ -1,0 +1,393 @@
+,2022,name,Tuition,Enrollment Numbers
+0,1,princeton university,56010,4773
+1,2,columbia university,63530,6170
+2,2,harvard university,55587,5222
+3,2,massachusetts institute of technology,55878,4361
+4,5,yale university,59950,4703
+5,6,stanford university,56169,6366
+6,6,university of chicago,60963,6989
+7,8,university of pennsylvania,61710,9872
+8,9,california institute of technology,58680,901
+9,9,duke university,60489,6717
+10,9,johns hopkins university,58720,6331
+11,9,northwestern university,60984,8194
+12,13,dartmouth college,60870,4170
+13,14,brown university,62404,6792
+14,14,vanderbilt university,56966,7057
+15,14,washington university in saint louis,58866,7653
+16,17,cornell university,61015,14743
+17,17,rice university,52895,4076
+18,19,university of notre dame,58843,8874
+19,20,university of california los angeles,43022,31636
+20,21,emory university,55468,7010
+21,22,university of california berkeley,44115,30980
+22,23,georgetown university,59957,7357
+23,23,university of michigan ann arbor,53232,31329
+24,25,carnegie mellon university,58924,7073
+25,25,university of virginia,53666,17311
+26,27,university of southern california,60275,19606
+27,28,new york university,56500,27444
+28,28,tufts university,63000,6114
+29,28,university of california santa barbara,44196,23196
+30,28,university of florida,28658,34931
+31,28,university of north carolina chapel hill,36776,19399
+32,28,wake forest university,59770,5441
+33,34,university of california san diego,44487,31842
+34,34,university of rochester,59344,6521
+35,36,boston college,61706,9445
+36,36,university of california irvine,43709,29638
+37,38,georgia institute of technology,33794,16561
+38,38,university of california davis,44408,31162
+39,38,university of texas austin,40032,40048
+40,38,college of william and mary,46467,6236
+41,42,boston university,59816,16872
+42,42,brandeis university,60391,3493
+43,42,case western reserve university,54020,5433
+44,42,tulane university,60814,7700
+45,42,university of wisconsin Madison,38608,33585
+46,47,university of illinois champaign,34316,33683
+47,48,university of georgia,31120,29765
+48,49,lehigh university,57470,5203
+49,49,northeastern university,57592,15156
+50,49,ohio state university,35019,46984
+51,49,pepperdine university,59702,3459
+52,49,purdue university,28794,34920
+53,49,villanova university,59900,7037
+54,55,florida state university,21683,32543
+55,55,rensselaer polytechnic institute,58526,6283
+56,55,santa clara university,55860,5608
+57,55,university of miami,54760,11334
+58,59,syracuse university,57591,14479
+59,59,university of maryland,38636,30875
+60,59,university of pittsburghh pittsburghh campus,34124,19197
+61,59,university of washington,39906,35582
+62,63,george washington university,59870,11762
+63,63,pennsylvania state university,36476,39809
+64,63,rutgers university new brunswick,33005,35844
+65,63,university of connecticut,41192,18917
+66,63,worcester polytechnic institute,55531,4892
+67,68,fordham university,55776,9399
+68,68,indiana university bloomington,38354,32986
+69,68,southern methodist university,60236,6827
+70,68,texas a&m university,40087,55568
+71,68,university of massachusetts amherst,36964,24233
+72,68,university of minnesota twin cities,33843,36061
+73,68,yeshiva university,47500,2017
+74,75,baylor university,50232,14399
+75,75,clemson university,37712,20868
+76,75,loyola marymount university,53051,6673
+77,75,virginia polytechnic institute and state university,33253,30020
+78,79,american university,51334,7953
+79,79,brigham young university,6120,33365
+80,79,gonzaga university,48470,4852
+81,79,north carolina state university,29916,26150
+82,83,binghamton university suny,27909,14333
+83,83,colorado school of mines,39800,5216
+84,83,elon university,38725,6291
+85,83,howard university,28916,7857
+86,83,marquette university,45766,8024
+87,83,michigan state university,39766,38491
+88,83,stevens institute of technology,56920,3670
+89,83,texas christian university,51660,9704
+90,83,university of california riverside,43496,22687
+91,83,university of iowa,31569,22304
+92,93,stony brook university,28080,18010
+93,93,suny college buffalo,28194,22306
+94,93,university of california merced,43319,8276
+95,93,university of delaware,36880,18420
+96,93,university of denver,54819,5699
+97,93,university of san diego,52864,5529
+98,99,auburn university,31956,24505
+99,99,university of colorado boulder,38312,30300
+100,99,university of oregon,39308,18045
+101,99,university of utah,31389,24643
+102,103,clark university,50302,2241
+103,103,creighton university,44524,4458
+104,103,drexel university,57136,14552
+105,103,loyola university chicago,47498,11612
+106,103,miami university oxford,37379,16522
+107,103,new jersey institute of technology,33386,9084
+108,103,saint louis university,48824,7357
+109,103,temple university,34801,27306
+110,103,university of arizona,34667,36503
+111,103,university of california santa cruz,43820,17207
+112,103,university of illinois chicago,31787,21921
+113,103,university of san francisco,53472,5852
+114,103,university of south florida,17324,38579
+115,103,university of tennessee,31434,24254
+116,117,arizona state university,29438,63124
+117,117,rochester institute of technology,52756,13412
+118,117,suny college of environmental science and forestry,19976,1731
+119,117,university of south carolina,33928,27270
+120,117,university of vermont,43890,11136
+121,117,chapman university,57214,7404
+122,122,illinois institute of technology,50640,3123
+123,122,iowa state university,24504,26846
+124,122,university of kansas,28034,19135
+125,122,university of missouri,30450,23396
+126,127,clarkson university,54370,2905
+127,127,depaul university,42012,14145
+128,127,gallaudet university,17112,1019
+129,127,rutgers university newark,32409,9118
+130,127,seattle university,49335,4299
+131,127,seton hall university,46880,5913
+132,127,university of dayton,44890,8644
+133,127,university of kentucky,31608,22227
+134,127,university of oklahoma,25116,21383
+135,136,the catholic university of america,52156,3055
+136,136,drake university,45962,2848
+137,136,new school,52979,6430
+138,136,samford university,35360,3576
+139,136,simmons university,43112,1744
+140,136,university of la verne,45850,2484
+141,136,university of nebraska,27002,20286
+142,136,university of new hampshire,37202,11747
+143,136,saint thomas university,48609,6333
+144,136,university of texas dallas,39776,21187
+145,136,university of the pacific,52352,3524
+146,136,university of tulsa,44838,2929
+147,148,colorado state university,31540,25186
+148,148,cuny city college,19010,12587
+149,148,duquesne university,43526,5383
+150,148,george mason university,36579,27105
+151,148,michigan technological university,38112,5642
+152,148,quinnipiac university,51270,6841
+153,148,rutgers university camden,32299,5502
+154,148,san diego state university,20016,31086
+155,148,thomas jefferson university,41715,3783
+156,148,university of alabama,31090,31670
+157,148,university of alabama birmingham,25380,13878
+158,148,university of central florida,22467,61456
+159,148,university of cincinnati,27472,28657
+160,148,university of mississippi,25876,16179
+161,162,belmont university,38430,6626
+162,162,florida international university,18964,48664
+163,162,hofstra university,51360,6120
+164,162,kansas state university,26342,16257
+165,162,mercer university,38746,4911
+166,162,oregon state university,32288,26644
+167,162,university of arkansas,26390,22825
+168,162,university of hawaii manoa,34218,13203
+169,162,university of maryland baltimore county,28470,10932
+170,162,university of rhode island,33354,14073
+171,172,adelphi university,42475,5124
+172,172,chatham university,40877,1358
+173,172,louisiana state university baton rouge,28005,27825
+174,172,saint john's university of queens ny,46050,15693
+175,172,state university of new york albany,28150,13182
+176,172,valparaiso university,44796,2723
+177,172,virginia commonwealth university,35676,21943
+178,172,missouri university of science and technology,31286,6086
+179,179,montclair state university,21417,16374
+180,179,ohio university,22810,18913
+181,179,rowan university,23409,15963
+182,179,university of houston,27110,39165
+183,179,university of idaho,27576,8366
+184,179,university of massachusetts lowell,33624,13815
+185,179,washington state university,27733,25470
+186,187,oklahoma state university,24539,20307
+187,187,pacific university,50070,1758
+188,187,robert morris university,32770,3312
+189,187,saint john fisher college,36352,2692
+190,187,union university,35660,2096
+191,187,university of detroit mercy,30154,2633
+192,187,university of louisville,28508,15927
+193,187,university of north carolina wilmington,21303,14650
+194,187,university of saint joseph,42934,898
+195,196,biola university,44382,3682
+196,196,indiana university purdue university indianapolis,32101,20966
+197,196,mississippi state university,24900,18803
+198,196,towson university,22532,18730
+199,196,university of new mexico,24924,16124
+200,196,university of wyoming,20647,9342
+201,202,ball state university,27406,15780
+202,202,bellarmine university,44520,2484
+203,202,bethel university of saint paul mn,40080,2710
+204,202,florida a&m university,17725,7402
+205,202,florida institute of technology,43246,3475
+206,202,hampton university,29287,3063
+207,202,illinois state university,26281,17987
+208,202,loyola university new orleans,43498,3219
+209,202,maryville university of saint louis,27166,5504
+210,202,misericordia university,35940,1845
+211,202,sacred heart university,45230,6417
+212,213,california state university fresno,12789,22611
+213,213,east carolina university,23593,23056
+214,213,george fox university,38520,2481
+215,213,kent state university,20800,21621
+216,213,lipscomb university,35752,2997
+217,213,nova southeastern university,34570,6314
+218,213,pace university,48830,7994
+219,213,texas tech university,24092,33269
+220,213,touro college,20750,5520
+221,213,university of hartford,44885,4521
+222,213,university of maine,33586,9465
+223,213,western new england university,40380,2552
+224,213,widener university,49706,2912
+225,213,wilkes university,39914,2243
+226,227,gannon university,34526,3208
+227,227,immaculata university,27750,1614
+228,227,new mexico state university,25666,11575
+229,227,regis university,39610,3197
+230,227,russell sage college,33894,1287
+231,227,seattle pacific university,35646,2702
+232,227,saint catherine university,46494,2983
+233,227,university of colorado denver,32820,14995
+234,227,university of massachusetts boston,35139,12871
+235,227,university of massachusetts dartmouth,30153,6027
+236,227,university of nevada reno,24680,16852
+237,227,university of north carolina charlotte,20542,24175
+238,239,central michigan university,13538,13048
+239,239,clarke university,36870,659
+240,239,college of saint scholastica,39410,2244
+241,239,edgewood college,31700,1407
+242,239,georgia state university,30114,28772
+243,239,oklahoma city university,32744,1526
+244,239,university of north carolina greensboro,22564,15995
+245,239,university of indianapolis,33520,4168
+246,239,university of missouri saint louis,30570,10977
+247,239,university of south dakota,12942,7103
+248,249,bowling green state university,19000,14988
+249,249,harding university,22470,3574
+250,249,lesley university,29450,2128
+251,249,lincoln memorial university,24210,1817
+252,249,sam houston state university,23274,18790
+253,249,university of memphis,16764,17383
+254,249,university of missouri kansas city,28026,11036
+255,249,university of nevada las vegas,25977,25862
+256,249,university of new england,39820,4065
+257,249,university of north dakota,15067,9796
+258,249,university of saint francis,35000,1627
+259,249,utah state university,23434,24647
+260,249,wayne state university,32727,17513
+261,249,west virginia university,25320,21086
+262,263,azusa pacific university,41410,4498
+263,263,baker university,31600,1149
+264,263,delaware state university,17294,4131
+265,263,inter american university of puerto rico san german,6012,3143
+266,263,montana state university,26950,14240
+267,263,old dominion university,31680,19622
+268,263,shenandoah university,34490,2267
+269,263,southern illinois university carbondale,15240,8299
+270,263,university of alabama huntsville,23734,8027
+271,263,university of findlay,36720,3732
+272,263,university of nebraska omaha,21718,12768
+273,263,university of north florida,20793,14550
+274,263,university of the incarnate word,33100,5081
+275,263,western michigan university,17591,16554
+276,277,campbell university,38160,3720
+277,277,concordia university wisconsin,31952,3095
+278,277,florida atlantic university,21655,25562
+279,277,gardner webb university,31960,1999
+280,277,louisiana tech university,19548,10013
+281,277,north carolina agricultural and technical state university,20243,11130
+282,277,north dakota state university main campus fargo,14471,10555
+283,277,regent university,18820,4539
+284,277,tennessee technological university,16027,8778
+285,277,university of montana,28252,6975
+286,277,university of north texas,24234,32694
+287,288,dallas baptist university,33620,2874
+288,288,east tennessee state university,27406,10705
+289,288,long island university,39920,10403
+290,288,marshall university,19606,8771
+291,288,middle tennessee state university,29584,19188
+292,288,northern arizona university,26642,25230
+293,288,portland state university,23769,18959
+294,288,south dakota state university,12809,9976
+295,288,university of hawaii at hilo,20798,2671
+296,288,university of puerto rico rio piedras,4198,11254
+297,288,university of texas arlington,29299,35064
+298,299,alliant international university,17190,249
+299,300,andrews university,31008,1708
+300,301,arkansas state university,16070,8486
+301,302,augusta university,24210,5675
+302,303,aurora university,25600,4104
+303,304,barry university,30014,3523
+304,305,benedictine university,34290,2299
+305,306,boise state university,24988,20788
+306,307,cardinal stritch university,34762,1068
+307,308,carson newman university,31320,1722
+308,309,clark atlanta university,24430,3096
+309,310,cleveland state university,16480,11245
+310,311,colorado technical university,12573,23430
+311,312,daemen college,31250,1638
+312,313,d'youville college,29998,1475
+313,314,eastern michigan university,14090,13572
+314,315,ferris state university,13290,9929
+315,316,georgia southern university,21396,23469
+316,317,grand canyon university,17800,58997
+317,318,husson university,20430,2677
+318,319,idaho state university,24494,10353
+319,320,indiana state university,20570,8939
+320,321,indiana university of pennsylvania,17464,8010
+321,322,inter american university of puerto rico metropolitan campus,7584,5508
+322,323,jackson state university,9445,4668
+323,324,keiser university,34968,17490
+324,325,kennesaw state university,21616,37390
+325,326,lamar university,22826,8555
+326,327,liberty university,24910,47988
+327,328,lindenwood university,18640,4822
+328,329,mary baldwin college,31085,1477
+329,330,metropolitan state university of denver,15673,6770
+330,331,mississippi college,20302,2757
+331,332,missouri state university,16608,19801
+332,333,morgan state university,18480,6270
+333,334,national louis university,11325,3604
+334,335,northern illinois university,12478,12277
+335,336,northern kentucky university,20448,11507
+336,337,oakland university,24708,15100
+337,338,our lady of the lake university,29926,1294
+338,339,palm beach atlantic university,34136,2916
+339,340,pontifical catholic university of puerto rico ponce,5510,5346
+340,341,roosevelt university,31493,2997
+341,342,southern illinois university edwardsville,12300,9942
+342,343,spalding university,25975,925
+343,344,stephen f austin state university,21616,11494
+344,345,tennessee state university,21910,6000
+345,346,texas a&m university commerce,22266,8062
+346,347,texas a&m university corpus christi,23367,8483
+347,348,texas a&m university kingsville,23106,5674
+348,349,texas southern university,21443,5298
+349,350,texas state university,24091,33193
+350,351,texas wesleyan university,33408,1480
+351,352,texas woman's university,22474,10656
+352,353,trevecca nazarene university,26898,2095
+353,354,trinity international university,33298,722
+354,355,union institute and university,15686,604
+355,356,universidad ana g mendez gurabo campus,5820,12508
+356,357,university of akron,15410,13651
+357,358,university of alaska fairbanks,-1,6206
+358,359,university of arkansas little rock,18957,7006
+359,360,university of bridgeport,-1,3233
+360,361,university of central arkansas,16433,8615
+361,362,university of charleston,31400,2115
+362,363,university of colorado colorado springs,25600,10119
+363,364,university of louisiana lafayette,24110,14020
+364,365,university of louisiana monroe,21651,6859
+365,366,university of mary,20628,2540
+366,367,university of maryland eastern shore,18968,2070
+367,368,university of michigan flint,24622,5424
+368,369,university of new orleans,16762,6895
+369,370,university of northern colorado,22496,8494
+370,371,university of phoenix,9552,72485
+371,372,university of south alabama,20840,9050
+372,373,university of southern mississippi,11160,11451
+373,374,university of tennessee chattanooga,25966,10341
+374,375,university of texas san antonio,25920,29959
+375,376,university of texas tyler,25016,7237
+376,377,university of texas el paso,24952,21117
+377,378,university of texas rio grande valley,18733,26762
+378,379,university of the cumberlands,9875,3874
+379,380,university of toledo,20818,14406
+380,381,university of west georgia,21432,10331
+381,382,university of wisconsin milwaukee,21119,20213
+382,383,valdosta state university,17638,9570
+383,384,washburn university topeka,19876,5064
+384,385,western kentucky university,26496,15286
+385,386,wichita state university,18166,12406
+386,387,william carey university,14100,3264
+387,388,william woods university,25930,873
+388,389,wilmington university,11750,9230
+389,390,wingate university,40170,2683
+390,391,wright state university,19097,8332
+391,392,brandman university,15480,6114
